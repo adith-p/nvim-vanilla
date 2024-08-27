@@ -1,0 +1,3 @@
+require("adith")
+
+print("hello")
